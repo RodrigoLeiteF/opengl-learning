@@ -1,0 +1,6 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/rodrigo/repos/opengl-learning
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Using X11 for window creation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rodrigo/repos/opengl-learning/cmake-build-debug
